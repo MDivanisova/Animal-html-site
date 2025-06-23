@@ -1,0 +1,119 @@
+.vraper
+{
+   display:inline-block;
+}
+.w2
+{
+
+    width: 40%;
+}
+.w1 {
+   background-image: url(W1.jpg);
+    width: 13%;
+    float: left;
+}
+
+.paw{
+     background-image: url(paws.jpg);
+  }
+.paw2{
+    background-image: url(paw2.jpg);
+}
+.paw3{
+    background-image: url(paw3.jpg);
+}
+.meni{
+    font-family: Fantasy;
+    font-size: 20px;
+    color: Green;
+    margin: 2px;
+    text-decoration: none;
+    border-style: inset;
+    padding: 2px;
+    border-color: lime;
+    background-color: #c2e995;
+}
+.active{
+    font-family: Fantasy;
+    font-size: 20.1px;
+    color: DarkGreen;
+    margin: 2px;
+    text-decoration: none;
+    border-style: inset;
+    padding: 2px;
+    border-color: Green;
+    background-color: #76b929;
+}
+.meni:hover{
+    font-family: Fantasy;
+    font-size: 20.1px;
+    color: DarkGreen;
+    margin: 2px;
+    text-decoration: none;
+    border-style: inset;
+    padding: 2px;
+    border-color: Green;
+    background-color: #76b929;
+}
+.leftmeni{
+    border-left-style: solid;
+    border-bottom-style: dotted;
+    font-family: Fantasy;
+    font-size: 18px;
+    color: Green;
+    margin: 2px;
+    text-decoration: none;
+    padding: 2px;
+    border-color: Green;
+
+}
+.lf:hover{
+    font-family: Fantasy;
+    font-size: 18.1px;
+    color: DarkGreen;
+    margin: 2px;
+    text-decoration: none;
+    border-style: dotted;
+    padding: 2px;
+    border-color: Black;
+    background-color: #76b929;
+}
+.leftactive{
+    font-family: Fantasy;
+    font-size: 18.1px;
+    color: DarkGreen;
+    margin: 2px;
+    text-decoration: none;
+    border-style: dotted;
+    padding: 2px;
+    border-color: Black;
+    background-color: #76b929;
+}
+.naslovi{
+    background-color: Green;
+}
+.podnaslovi{
+    background-color: #76b929;
+}
+.down{
+    text-decoration: none;
+    color: black;
+}
+.down:hover{
+    text-decoration: underline;
+    color: green;
+
+}
+
+.table{
+    border: 1px dashed Green;
+    border-radius: 10px;
+}
+.table2{
+    border: 1px dotted Green;
+    border-radius: 10px;
+}
+.table3{
+    border: 1px solid Green;
+    border-radius: 10px;
+}
